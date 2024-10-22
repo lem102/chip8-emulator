@@ -1,1 +1,11 @@
-A WIP Chip8 Emulator made for fun.
+A WIP Chip8 Emulator made for:
+
+- Learning Common Lisp.
+- Working on something a bit more low level than usual.
+- Fun.
+
+* TODO:
+
+- Accurate-ish timing for all the instructions.
+- An annoying beep when the sound timer is ticking down.
+- Probably endless refactoring.
